@@ -1,0 +1,40 @@
+{
+    "administradores": [
+        {
+            "ra": "ADM0001",
+            "senha": "admin123",
+            "nome": "Administrador Principal",
+            "tipo": "godmode",
+            "bloqueado": false
+        },
+        {
+            "ra": "ADM0002",
+            "senha": "teste123",
+            "nome": "Fabio de Matos",
+            "tipo": "limitado",
+            "bloqueado": false
+        }
+    ],
+    "tokens_pendentes": [
+        {
+            "token": "ADM-TK4690",
+            "usado": false
+        },
+        {
+            "token": "ADM-TK6133",
+            "usado": false
+        },
+        {
+            "token": "ADM-TK5238",
+            "usado": true
+        },
+        {
+            "token": "ADM-TK8970",
+            "usado": false
+        },
+        {
+            "token": "ADM-TK5520",
+            "usado": false
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "professores": [
+        {
+            "ra": "PROF0001",
+            "nome": "Nicolas Zemella de Matos",
+            "cpf": "51964196833",
+            "telefone": "11913420445",
+            "email": "nick.zemella@gmail.com",
+            "senha": "teste123",
+            "disciplina": "C++",
+            "bloqueado": false
+        }
+    ]
+}

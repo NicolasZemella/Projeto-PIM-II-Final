@@ -1,0 +1,16 @@
+{
+    "alunos": [
+        {
+            "nome": "Isaac",
+            "cpf": "285793684033",
+            "telefone": "118136249172",
+            "email": "asbfkashdbfl@gmail.com",
+            "senha": "teste123",
+            "ra": "CSA9189",
+            "disciplina": "C++",
+            "notas": [],
+            "media": null,
+            "bloqueado": false
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "Python": {
+        "id": "D001",
+        "professor": null,
+        "alunos": [
+            {
+                "nome": "Isaac",
+                "cpf": "285793684033",
+                "telefone": "118136249172",
+                "email": "asbfkashdbfl@gmail.com",
+                "senha": "teste123",
+                "ra": "CSA9189",
+                "disciplina": "Python",
+                "notas": [],
+                "media": null,
+                "bloqueado": false
+            }
+        ],
+        "codigo_acesso": "PYT-NOMRJ",
+        "horario": {
+            "dia": "Segunda",
+            "inicio": "19:00",
+            "fim": "22:00"
+        }
+    },
+    "C++": {
+        "id": "D002",
+        "professor": {
+            "ra": "PROF0001",
+            "nome": "Nicolas Zemella de Matos",
+            "email": "nick.zemella@gmail.com"
+        },
+        "alunos": [
+            {
+                "nome": "Isaac",
+                "cpf": "285793684033",
+                "telefone": "118136249172",
+                "email": "asbfkashdbfl@gmail.com",
+                "senha": "teste123",
+                "ra": "CSA9189",
+                "disciplina": "C++",
+                "notas": [],
+                "media": null,
+                "bloqueado": false
+            },
+            {
+                "nome": "Isaac",
+                "cpf": "285793684033",
+                "telefone": "118136249172",
+                "email": "asbfkashdbfl@gmail.com",
+                "senha": "teste123",
+                "ra": "CSA9189",
+                "disciplina": "C++",
+                "notas": [],
+                "media": null,
+                "bloqueado": false
+            }
+        ],
+        "codigo_acesso": null,
+        "aulas": [
+            {
+                "titulo": "Introdução a python",
+                "conteudo": "1. Sla to falando bobagem só pra ver se funciona mesmo as vezes eu tento fazer\nuns negócio aqui no chatgpt mais ele me irritou dms hoje 2. De\n\n6. horas que fiquei fazendo o trabalho fiquei com toda certeza pelo menos uma\nhora esperando o chatgpt me ajudar"
+            },
+            {
+                "titulo": "Laços de repetição",
+                "conteudo": "1. ajbflasdbfajbsdflkajbsdflkjabsldfkjhaslkdjfhlaksjflkajshdfljashdflkjahsdlfjha\nlsdjflkadshflkjahsdlfjahlkdf\n\n2. 19837459187365498173624987139847619327469127364981723649871234987\n\n1\n\n3. askdjfh908u34oifoasudhf09813y4f0hq\n\n4. osdhaoiludhfpq9wehf098qhewf"
+            }
+        ],
+        "provas": [
+            {
+                "titulo": "Laços de repetição",
+                "questoes": [
+                    {
+                        "pergunta": "Em anos caninos, quantos de idade tem um cachorro de 9 anos",
+                        "alternativas": [
+                            "1) 63",
+                            "2) 58",
+                            "3) 18",
+                            "4) 47"
+                        ],
+                        "correta": 0
+                    },
+                    {
+                        "pergunta": "SLa",
+                        "alternativas": [
+                            "1) a",
+                            "2) b",
+                            "3) a",
+                            "4) s"
+                        ],
+                        "correta": 0
+                    }
+                ],
+                "peso": 4
+            },
+            {
+                "titulo": "Sla",
+                "questoes": [
+                    {
+                        "pergunta": "12347123y4o132y4",
+                        "alternativas": [
+                            "1) aksdbfasfsd",
+                            "2) audsfbkashdbflas",
+                            "3) asdkfhbaskdfh",
+                            "4) abfaksdf"
+                        ],
+                        "correta": 2
+                    },
+                    {
+                        "pergunta": "akhwbfahsdbf",
+                        "alternativas": [
+                            "1) ashdfbkajsdf",
+                            "2) asdfkahsdf",
+                            "3) akdjbfaksjdf",
+                            "4) askdjfasjdfhb"
+                        ],
+                        "correta": 1
+                    }
+                ],
+                "peso": 4
+            }
+        ],
+        "notas_pendentes": {
+            "CSA9189": 5.0
+        }
+    },
+    "Engenharia de Software Ágil": {
+        "id": "D003",
+        "professor": null,
+        "alunos": [],
+        "codigo_acesso": null
+    },
+    "Analise De Requisitos": {
+        "id": "DISC004",
+        "professor": null,
+        "alunos": [],
+        "codigo_acesso": "ANA-S8S1U",
+        "horario": null
+    },
+    "Inteligencia Artificial": {
+        "id": "DISC005",
+        "professor": null,
+        "alunos": [],
+        "codigo_acesso": "INT-BR2UP",
+        "horario": null
+    },
+    "Direitos Humanos": {
+        "id": "DISC006",
+        "professor": null,
+        "alunos": [
+            {
+                "nome": "Isaac",
+                "cpf": "285793684033",
+                "telefone": "118136249172",
+                "email": "asbfkashdbfl@gmail.com",
+                "senha": "teste123",
+                "ra": "CSA9189",
+                "disciplina": "Direitos Humanos",
+                "notas": [],
+                "media": null,
+                "bloqueado": false
+            }
+        ],
+        "codigo_acesso": "DIR-JYT3D",
+        "horario": null
+    }
+}
